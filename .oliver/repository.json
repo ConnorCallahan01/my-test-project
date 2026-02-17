@@ -2,8 +2,22 @@
   "version": "1.0",
   "projectId": "85ee78a7-5ee4-4548-a1d3-85f223317741",
   "createdAt": "2026-02-17T06:22:14.649Z",
-  "updatedAt": "2026-02-17T06:22:14.649Z",
-  "files": [],
+  "updatedAt": "2026-02-17T06:37:33.852Z",
+  "files": [
+    {
+      "id": "oliver-write-6485024f6dea54dc37faafd24b57789ff93b30fc",
+      "name": "second-brain-brainstorm.md",
+      "path": "repository/ai-opportunity-assessment/second-brain-brainstorm.md",
+      "folder": "ai-opportunity-assessment",
+      "mimeType": "text/markdown",
+      "size": 1576,
+      "sha": "6485024f6dea54dc37faafd24b57789ff93b30fc",
+      "createdAt": "2026-02-17T06:37:33.852Z",
+      "updatedAt": "2026-02-17T06:37:33.852Z",
+      "tags": [],
+      "generatedByAgent": true
+    }
+  ],
   "externalLinks": [],
-  "storageUsed": 0
+  "storageUsed": 1576
 }
